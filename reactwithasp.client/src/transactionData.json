@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "ticker": "SGLP",
+        "quantity": 4,
+        "price": 203.79,
+        "cost": 820.16,
+        "date": "11/12/2024",
+        "buy": "true"
+    },
+    {
+        "id": 2,
+        "ticker": "SGLP",
+        "quantity": 4,
+        "price": 217.81,
+        "cost": 876.81,
+        "date": "06/06/2025",
+        "buy": "true"
+    }
+]

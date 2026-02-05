@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "secrets1": {
+            "type": "secrets"
+        },
+        "mssql1": {
+            "type": "mssql",
+            "connectionId": "ConnectionStrings:DatabaseConnection"
+        },
+        "ConnectionStrings": {
+            "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=MvcPortfolioContext;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+
+    }
+}
